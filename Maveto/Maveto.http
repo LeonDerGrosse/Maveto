@@ -1,0 +1,6 @@
+@Maveto_HostAddress = http://localhost:5056
+
+GET {{Maveto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
